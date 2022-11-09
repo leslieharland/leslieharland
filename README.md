@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Leslie
-I have graduated from National University of Singapore in the very start of 2022. I have worked/ interned in companies including Human Resources, Engineering, Audit etc with a combined experience of 1-2 years. I started my career as a web developer, and is still pursuing and attending courses to improve my coding skills in web frameworks and technologies. I’m currently working with Javascript/ Typescript projects. During my free time, I read technology books as a way of self exploration.
+I'm a C.S. graduate from National University of Singapore. My past profile include working/ having internship in companies including Human Resources, Engineering, Audit etc with a combined experience of 1-2 years. I started my career after my graduation in 2022 as a web developer, and is still pursuing and attending courses to improve my coding skills in web frameworks and technologies. I’m currently working with Javascript/ Typescript projects. During my free time, I read technology books as a way of self exploration.
 ### Stats
 ![Leslie's GitHub stats](https://github-readme-stats.vercel.app/api?username=leslieharland&count_private=true&show_icons=true&theme=dracula)
 <!--
